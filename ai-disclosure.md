@@ -1,0 +1,2 @@
+- Used to research the process of finalizing a multi-part upload to an Object Storage service. (To be more precise about what the final manifest file must contain - etags)
+- Used to find out which languages have libraries for working with FFmpeg. 
